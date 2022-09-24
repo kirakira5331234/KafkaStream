@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.AssemblyInfo.cs
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\bin\Debug\netcoreapp2.1\API_Kafka.deps.json
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\bin\Debug\netcoreapp2.1\API_Kafka.runtimeconfig.json
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\bin\Debug\netcoreapp2.1\API_Kafka.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\bin\Debug\netcoreapp2.1\API_Kafka.dll
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\bin\Debug\netcoreapp2.1\API_Kafka.pdb
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.dll
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\API_Kafka.pdb
+C:\Users\Admin\Desktop\API_Kafka\API_Kafka\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
